@@ -1,78 +1,77 @@
 Name,Value,Uom,facilityName,facilityId,StoredAt,StateAbbreviation
-Outflow,961.0,cfs,Fife Brook,22,2021-08-25T06:21:06.253Z,MA
-Headwater Elevation Outside,2458.86,ft,Deep Creek,12,2021-08-25T06:21:08.127Z,MD
-Number of Turbines Generating,0.0,,Deep Creek,12,2021-08-25T06:21:08.127Z,MD
-Flow,343.0,cfs,Aziscohos,14,2021-08-25T06:21:04.96Z,ME
-Satellite Remote Pond Elevation for Aziscohos,1506.48,ft,Aziscohos,14,2021-08-25T06:21:04.96Z,ME
-Lake Outflow,712.0,cfs,Brassua,23,2021-08-25T06:21:06.47Z,ME
-Reservoir Level,1069.9,ft,Brassua,23,2021-08-25T06:21:06.47Z,ME
-USGS Flow,54.0,cfs,Canada Falls Lake,30,2021-08-25T06:21:06.8Z,ME
-Caucomgomoc Lake Gate Total Flow,94.0,cfs,Caucomgomoc Lake,29,2021-08-25T06:21:06.8Z,ME
-Total Flow,2152.0,cfs,Dolby,31,2021-08-25T06:21:06.8Z,ME
-Total Flow,155.0,cfs,Ellsworth,45,2021-08-25T06:21:07.767Z,ME
-Dead River Flow From Flagstaff Lake,319.0,cfs,Flagstaff,28,2021-08-25T06:21:06.47Z,ME
-Dead River Flow below Spencer Stream (Forecasted),357.0,cfs,Flagstaff,28,2021-08-25T06:21:06.47Z,ME
-Lake Level for Flagstaff Lake,1142.68,ft,Flagstaff,28,2021-08-25T06:21:06.47Z,ME
-Graham Lake Headwater Elevation,100.44,ft,Graham Lake Dam,50,2021-08-25T06:21:07.783Z,ME
-Headwater Elevation,953.55,ft,Harris (Indian Pond),24,2021-08-25T06:21:06.487Z,ME
-Station Flow Total,361.0,cfs,Harris (Indian Pond),24,2021-08-25T06:21:06.487Z,ME
-Total Flow,1973.0,cfs,McKay / Ripogenus,32,2021-08-25T06:21:06.813Z,ME
-Middle Richardson Pond Elevation,1441.65,ft,Middle Dam,16,2021-08-25T06:21:04.977Z,ME
-Richardson Lake Outflow,310.0,cfs,Middle Dam,16,2021-08-25T06:21:04.977Z,ME
-Millinocket Lake Level,478.83,ft,Millinocket Lake,33,2021-08-25T06:21:06.813Z,ME
-Total flow,77.0,cfs,Millinocket Lake,33,2021-08-25T06:21:06.813Z,ME
-East Outlet Gate Flow Total,810.0,cfs,Moosehead - East & West outlet,27,2021-08-25T06:21:06.487Z,ME
-Moosehead Lake Outflow - West,158.0,cfs,Moosehead - East & West outlet,27,2021-08-25T06:21:06.487Z,ME
-Satellite Remote Pond Elevation for Moosehead Lake East Outlet,1026.67,ft,Moosehead - East & West outlet,27,2021-08-25T06:21:06.487Z,ME
-Feet below Full Pond,-1.45,ft,North Twin,34,2021-08-25T06:21:06.83Z,ME
-Headwater Elevation,490.48,ft,North Twin,34,2021-08-25T06:21:06.83Z,ME
-Total Flow,2116.0,cfs,North Twin,34,2021-08-25T06:21:06.83Z,ME
-Ragged Lake Gate Flow Total,68.0,cfs,Ragged Lake,35,2021-08-25T06:21:06.83Z,ME
-Rangeley Lake Outflow,20.0,cfs,Rangeley,17,2021-08-25T06:21:05.007Z,ME
-Satellite Remote Pond Elevation for Rangeley Lake,1517.28,ft,Rangeley,17,2021-08-25T06:21:05.007Z,ME
-Total Flow,407.0,cfs,Seboomook Lake,36,2021-08-25T06:21:06.83Z,ME
-Mooselookmeguntic Lake Elevation,1464.02,ft,Upper Dam,15,2021-08-25T06:21:05.007Z,ME
-Mooselookmeguntic Lake Outflow,310.0,cfs,Upper Dam,15,2021-08-25T06:21:05.007Z,ME
-Outflow,3102.0,cfs,Weldon / Mattaceunk,37,2021-08-25T06:21:06.847Z,ME
-Headwater Elevation,316.14,ft,Williams,25,2021-08-25T06:21:06.503Z,ME
-Station Flow Total,1198.0,cfs,Williams,25,2021-08-25T06:21:06.503Z,ME
-Headwater Elevation,483.44,ft,Wyman,26,2021-08-25T06:21:06.52Z,ME
-Station Flow Total,1253.0,cfs,Wyman,26,2021-08-25T06:21:06.52Z,ME
-Discharge into Little Tennessee River,47.0,cfs,Cheoah,3,2021-08-25T06:21:06.66Z,NC
-Feet Below Full Pool,-5.41,ft,Cheoah,3,2021-08-25T06:21:06.66Z,NC
-Lake Elevation,1271.39,ft,Cheoah,3,2021-08-25T06:21:06.66Z,NC
-Discharge into Cheoah River,52.0,cfs,Santeetlah,13,2021-08-25T06:21:06.673Z,NC
-Discharge into Little Tennessee River,0.0,cfs,Santeetlah,13,2021-08-25T06:21:06.673Z,NC
-Feet Below Full Pool,-1.1,ft,Santeetlah,13,2021-08-25T06:21:06.673Z,NC
-Lake Elevation,1939.81,ft,Santeetlah,13,2021-08-25T06:21:06.673Z,NC
-NH USGS Flow,864.0,cfs,Errol,18,2021-08-25T06:21:04.977Z,NH
-Satellite Remote Pond Elevation for Umbagog Lake,1243.65,ft,Errol,18,2021-08-25T06:21:04.977Z,NH
-Pontook Downstream Flow,373.0,cfs,Pontook,20,2021-08-25T06:21:04.993Z,NH
-Total Flow Below the Dam,833.0,cfs,Allens Falls,43,2021-08-25T06:21:07.517Z,NY
-Total Flow,5823.0,cfs,Beebee Island,21,2021-08-25T06:21:06.017Z,NY
-Total Flow,84.0,cfs,Chasm,53,2021-08-25T06:21:07.423Z,NY
-Total Flow Below the Dam,473.0,cfs,Colton,38,2021-08-25T06:21:07.193Z,NY
-Total Flow Below the Dam,997.0,cfs,Hannawa,39,2021-08-25T06:21:07.193Z,NY
-Total Flow Below the Dam,116.0,cfs,Parishville,44,2021-08-25T06:21:07.533Z,NY
-Total flow Below the Powerhouse,332.0,cfs,Stewarts Bridge,46,2021-08-25T06:21:07.313Z,NY
-Total Flow Below the Dam,2931.0,cfs,Sugar Island,41,2021-08-25T06:21:07.203Z,NY
-Total Flow,1764.0,cfs,Trenton Falls,47,2021-08-25T06:21:08.003Z,NY
-Lake Level,170.03,ft,Holtwood,10,2021-08-25T06:21:07.643Z,PA
-Tailwater Elevation,114.88,ft,Holtwood,10,2021-08-25T06:21:07.643Z,PA
-Holtwood Elevation,170.02,ft,Safe Harbor,9,2021-08-25T06:21:07.643Z,PA
-Safe Harbor Elevation,226.03,ft,Safe Harbor,9,2021-08-25T06:21:07.643Z,PA
-Estimated Real-Time Discharge to Lackawaxen River,1443.0,cfs,Wallenpaupack,11,2021-08-25T06:21:07.893Z,PA
-Lake Elevation,1184.62,ft,Wallenpaupack,11,2021-08-25T06:21:07.893Z,PA
-Number of Turbines Generating,2.0,,Wallenpaupack,11,2021-08-25T06:21:07.893Z,PA
-Yesterday's Discharge to Lackawaxen River (24 hour avg),1446.0,cfs,Wallenpaupack,11,2021-08-25T06:21:07.893Z,PA
-Discharge into Little Tennessee River,156.0,cfs,Calderwood,4,2021-08-25T06:21:06.66Z,TN
-Feet Below Full Pool,-1.38,ft,Calderwood,4,2021-08-25T06:21:06.66Z,TN
-Goat Creek Discharge,156.0,cfs,Calderwood,4,2021-08-25T06:21:06.66Z,TN
-Lake Elevation,1086.41,ft,Calderwood,4,2021-08-25T06:21:06.66Z,TN
-Discharge into Little Tennessee River,836.0,cfs,Chilhowee,5,2021-08-25T06:21:06.673Z,TN
-Feet Below Full Pool,-0.96,ft,Chilhowee,5,2021-08-25T06:21:06.673Z,TN
-Lake Elevation,873.04,ft,Chilhowee,5,2021-08-25T06:21:06.673Z,TN
-Current flow in the bypass reach,297.0,cfs,Hawks Nest,54,2021-08-25T06:21:06.36Z,WV
-Forecast flow in Hawks Nest bypass reach (1 day),250.0,cfs,Hawks Nest,54,2021-08-25T06:21:06.36Z,WV
-Forecast flow in Hawks Nest bypass reach (3 day),250.0,cfs,Hawks Nest,54,2021-08-25T06:21:06.36Z,WV
-Maximum Diversion Through Tunnel And Powerhouse,10000.0,cfs,Hawks Nest,54,2021-08-25T06:21:06.36Z,WV
+Outflow,1013.0,cfs,Fife Brook,22,2021-08-25T12:36:01.713Z,MA
+Headwater Elevation Outside,2458.87,ft,Deep Creek,12,2021-08-25T12:36:04.293Z,MD
+Number of Turbines Generating,0.0,,Deep Creek,12,2021-08-25T12:36:04.293Z,MD
+Flow,343.0,cfs,Aziscohos,14,2021-08-25T12:36:00.9Z,ME
+Satellite Remote Pond Elevation for Aziscohos,1506.5,ft,Aziscohos,14,2021-08-25T12:36:00.9Z,ME
+Lake Outflow,712.0,cfs,Brassua,23,2021-08-25T12:36:02.23Z,ME
+Reservoir Level,1069.9,ft,Brassua,23,2021-08-25T12:36:02.23Z,ME
+USGS Flow,52.0,cfs,Canada Falls Lake,30,2021-08-25T12:36:02.59Z,ME
+Caucomgomoc Lake Gate Total Flow,92.0,cfs,Caucomgomoc Lake,29,2021-08-25T12:36:02.603Z,ME
+Total Flow,2151.0,cfs,Dolby,31,2021-08-25T12:36:02.603Z,ME
+Total Flow,1895.0,cfs,Ellsworth,45,2021-08-25T12:36:03.497Z,ME
+Dead River Flow From Flagstaff Lake,316.0,cfs,Flagstaff,28,2021-08-25T12:36:02.247Z,ME
+Dead River Flow below Spencer Stream (Forecasted),353.0,cfs,Flagstaff,28,2021-08-25T12:36:02.247Z,ME
+Lake Level for Flagstaff Lake,1142.7,ft,Flagstaff,28,2021-08-25T12:36:02.247Z,ME
+Graham Lake Headwater Elevation,100.39,ft,Graham Lake Dam,50,2021-08-25T12:36:03.527Z,ME
+Headwater Elevation,953.62,ft,Harris (Indian Pond),24,2021-08-25T12:36:02.247Z,ME
+Station Flow Total,369.0,cfs,Harris (Indian Pond),24,2021-08-25T12:36:02.247Z,ME
+Total Flow,1976.0,cfs,McKay / Ripogenus,32,2021-08-25T12:36:02.603Z,ME
+Middle Richardson Pond Elevation,1441.6,ft,Middle Dam,16,2021-08-25T12:36:00.967Z,ME
+Richardson Lake Outflow,310.0,cfs,Middle Dam,16,2021-08-25T12:36:00.967Z,ME
+Millinocket Lake Level,478.84,ft,Millinocket Lake,33,2021-08-25T12:36:02.62Z,ME
+Total flow,77.0,cfs,Millinocket Lake,33,2021-08-25T12:36:02.62Z,ME
+East Outlet Gate Flow Total,810.0,cfs,Moosehead - East & West outlet,27,2021-08-25T12:36:02.26Z,ME
+Moosehead Lake Outflow - West,158.0,cfs,Moosehead - East & West outlet,27,2021-08-25T12:36:02.26Z,ME
+Satellite Remote Pond Elevation for Moosehead Lake East Outlet,1026.65,ft,Moosehead - East & West outlet,27,2021-08-25T12:36:02.26Z,ME
+Feet below Full Pond,-1.44,ft,North Twin,34,2021-08-25T12:36:02.62Z,ME
+Headwater Elevation,490.48,ft,North Twin,34,2021-08-25T12:36:02.62Z,ME
+Total Flow,2108.0,cfs,North Twin,34,2021-08-25T12:36:02.62Z,ME
+Ragged Lake Gate Flow Total,68.0,cfs,Ragged Lake,35,2021-08-25T12:36:02.62Z,ME
+Rangeley Lake Outflow,20.0,cfs,Rangeley,17,2021-08-25T12:36:01.027Z,ME
+Satellite Remote Pond Elevation for Rangeley Lake,1517.28,ft,Rangeley,17,2021-08-25T12:36:01.027Z,ME
+Total Flow,406.0,cfs,Seboomook Lake,36,2021-08-25T12:36:02.637Z,ME
+Mooselookmeguntic Lake Elevation,1463.94,ft,Upper Dam,15,2021-08-25T12:36:01.073Z,ME
+Mooselookmeguntic Lake Outflow,310.0,cfs,Upper Dam,15,2021-08-25T12:36:01.073Z,ME
+Outflow,3150.0,cfs,Weldon / Mattaceunk,37,2021-08-25T12:36:02.637Z,ME
+Station Flow Total,1227.0,cfs,Williams,25,2021-08-25T12:36:02.26Z,ME
+Headwater Elevation,483.35,ft,Wyman,26,2021-08-25T12:36:02.26Z,ME
+Station Flow Total,1287.0,cfs,Wyman,26,2021-08-25T12:36:02.26Z,ME
+Discharge into Little Tennessee River,48.0,cfs,Cheoah,3,2021-08-25T12:36:02.447Z,NC
+Feet Below Full Pool,-5.13,ft,Cheoah,3,2021-08-25T12:36:02.447Z,NC
+Lake Elevation,1271.67,ft,Cheoah,3,2021-08-25T12:36:02.447Z,NC
+Discharge into Cheoah River,53.0,cfs,Santeetlah,13,2021-08-25T12:36:02.463Z,NC
+Discharge into Little Tennessee River,774.0,cfs,Santeetlah,13,2021-08-25T12:36:02.463Z,NC
+Feet Below Full Pool,-1.05,ft,Santeetlah,13,2021-08-25T12:36:02.463Z,NC
+Lake Elevation,1939.86,ft,Santeetlah,13,2021-08-25T12:36:02.463Z,NC
+NH USGS Flow,864.0,cfs,Errol,18,2021-08-25T12:36:00.933Z,NH
+Satellite Remote Pond Elevation for Umbagog Lake,1243.63,ft,Errol,18,2021-08-25T12:36:00.933Z,NH
+Pontook Downstream Flow,515.0,cfs,Pontook,20,2021-08-25T12:36:00.997Z,NH
+Total Flow Below the Dam,793.0,cfs,Allens Falls,43,2021-08-25T12:36:03.137Z,NY
+Total Flow,5298.0,cfs,Beebee Island,21,2021-08-25T12:36:01.433Z,NY
+Total Flow,84.0,cfs,Chasm,53,2021-08-25T12:36:03.01Z,NY
+Total Flow Below the Dam,1507.0,cfs,Colton,38,2021-08-25T12:36:02.777Z,NY
+Total Flow Below the Dam,1747.0,cfs,Hannawa,39,2021-08-25T12:36:02.777Z,NY
+Total Flow Below the Dam,109.0,cfs,Parishville,44,2021-08-25T12:36:03.137Z,NY
+Total flow Below the Powerhouse,4122.0,cfs,Stewarts Bridge,46,2021-08-25T12:36:02.9Z,NY
+Total Flow Below the Dam,3841.0,cfs,Sugar Island,41,2021-08-25T12:36:02.777Z,NY
+Total Flow,1760.0,cfs,Trenton Falls,47,2021-08-25T12:36:04.2Z,NY
+Lake Level,170.37,ft,Holtwood,10,2021-08-25T12:36:03.293Z,PA
+Tailwater Elevation,116.75,ft,Holtwood,10,2021-08-25T12:36:03.293Z,PA
+Holtwood Elevation,170.37,ft,Safe Harbor,9,2021-08-25T12:36:03.293Z,PA
+Safe Harbor Elevation,226.44,ft,Safe Harbor,9,2021-08-25T12:36:03.293Z,PA
+Estimated Real-Time Discharge to Lackawaxen River,1448.0,cfs,Wallenpaupack,11,2021-08-25T12:36:03.823Z,PA
+Lake Elevation,1184.57,ft,Wallenpaupack,11,2021-08-25T12:36:03.823Z,PA
+Number of Turbines Generating,2.0,,Wallenpaupack,11,2021-08-25T12:36:03.823Z,PA
+Yesterday's Discharge to Lackawaxen River (24 hour avg),1446.0,cfs,Wallenpaupack,11,2021-08-25T12:36:03.823Z,PA
+Discharge into Little Tennessee River,169.0,cfs,Calderwood,4,2021-08-25T12:36:02.447Z,TN
+Feet Below Full Pool,-1.2,ft,Calderwood,4,2021-08-25T12:36:02.447Z,TN
+Goat Creek Discharge,169.0,cfs,Calderwood,4,2021-08-25T12:36:02.447Z,TN
+Lake Elevation,1086.61,ft,Calderwood,4,2021-08-25T12:36:02.447Z,TN
+Discharge into Little Tennessee River,5.0,cfs,Chilhowee,5,2021-08-25T12:36:02.463Z,TN
+Feet Below Full Pool,-0.95,ft,Chilhowee,5,2021-08-25T12:36:02.463Z,TN
+Lake Elevation,873.05,ft,Chilhowee,5,2021-08-25T12:36:02.463Z,TN
+Current flow in the bypass reach,302.0,cfs,Hawks Nest,54,2021-08-25T12:36:02.03Z,WV
+Forecast flow in Hawks Nest bypass reach (1 day),250.0,cfs,Hawks Nest,54,2021-08-25T12:36:02.03Z,WV
+Forecast flow in Hawks Nest bypass reach (3 day),250.0,cfs,Hawks Nest,54,2021-08-25T12:36:02.03Z,WV
+Maximum Diversion Through Tunnel And Powerhouse,10000.0,cfs,Hawks Nest,54,2021-08-25T12:36:02.03Z,WV
