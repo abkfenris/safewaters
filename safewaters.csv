@@ -1,48 +1,48 @@
 Name,Value,Uom,facilityName,facilityId,StoredAt,StateAbbreviation
-Outflow,131,cfs,Fife Brook,426f11f0-00c7-11ec-9351-dd66b05aaa5c,2022-07-08T14:09:52,MA
-Headwater Elevation Outside,2460.32,Feet,Deep Creek,b277e810-00c6-11ec-9351-dd66b05aaa5c,2022-07-08T13:55:58.149,MD
-Number of Turbines Generating,0,,Deep Creek,b277e810-00c6-11ec-9351-dd66b05aaa5c,2022-07-08T14:08:34.54901,MD
-Lake Outflow,706,cfs,Brassua,6bd19f60-00c5-11ec-9351-dd66b05aaa5c,2022-07-08T14:00:00,ME
-USGS Flow,111,cfs,Canada Falls Lake,cbde65f0-00c5-11ec-9351-dd66b05aaa5c,2022-07-08T13:56:37,ME
-Caucomgomoc Lake Gate Total Flow,55,cfs,Caucomgomoc Lake,17d1c1f0-00c6-11ec-9351-dd66b05aaa5c,2022-07-08T14:00:00,ME
-Total Flow,2399,cfs,Dolby,ebddf7c0-00c6-11ec-9351-dd66b05aaa5c,2022-07-08T14:10:32,ME
-Dead River Flow From Flagstaff Lake.,416,cfs,Flagstaff,6b4b9490-00c7-11ec-9351-dd66b05aaa5c,2022-07-08T14:02:23,ME
-Lake Level for Flagstaff Lake.,1145.49,ft,Flagstaff,6b4b9490-00c7-11ec-9351-dd66b05aaa5c,2022-07-08T14:10:47.69801,ME
-Headwater Elevation,953.76,ft,Harris (Indian Pond),f50b1980-00c7-11ec-9351-dd66b05aaa5c,2022-07-08T14:10:57.44801,ME
-Station Flow Total,392,cfs,Harris (Indian Pond),f50b1980-00c7-11ec-9351-dd66b05aaa5c,2022-07-08T14:10:40,ME
-Total Flow,2518,cfs,Mckay / Ripogenus,4673dbe0-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T14:10:32,ME
-Millinocket Lake Level,478.97,ft,Millinocket Lake,8d57e650-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T14:00:27.067,ME
-Total flow,150,cfs,Millinocket Lake,8d57e650-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T14:02:08,ME
-Moosehead Lake Outflow - West,190,cfs,Moosehead - East & West Outlet,a4d27d40-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T14:00:00,ME
-Satellite Remote Pond Elevation for Moosehead Lake East Outlet,1028.59,ft,Moosehead - East & West Outlet,a4d27d40-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T14:00:00,ME
-Feet below Full Pond,-1.40,ft,North Twin,c7319f60-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T14:09:44,ME
-Headwater Elevation,490.52,ft,North Twin,c7319f60-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T14:10:45.847,ME
-Ragged Lake Gate Flow Total,10,cfs,Ragged Lake,ff0889f0-00d0-11ec-9351-dd66b05aaa5c,2022-07-08T14:00:00,ME
-Total Flow,240,CFS,Seboomook Lake,8e6373d0-00d1-11ec-9351-dd66b05aaa5c,2022-07-08T14:01:40,ME
-Headwater Elevation,318.32,ft,Williams,3b9363d0-00d2-11ec-9351-dd66b05aaa5c,2022-07-08T14:10:52.589,ME
-Station Flow Total,1722,cfs,Williams,3b9363d0-00d2-11ec-9351-dd66b05aaa5c,2022-07-08T14:10:40,ME
-Headwater Elevation,483.89,ft,Wyman,523ca100-00d2-11ec-9351-dd66b05aaa5c,2022-07-08T14:10:52.604,ME
-Station Flow Total,2424,cfs,Wyman,523ca100-00d2-11ec-9351-dd66b05aaa5c,2022-07-08T14:10:40,ME
-Flow,375,cfs,Aziscohos,2d0b10e0-00c5-11ec-9351-dd66b05aaa5c,2022-07-08T14:08:12,NH
-Satellite Remote Pond Elevation for Aziscohos,1517.55,ft,Aziscohos,2d0b10e0-00c5-11ec-9351-dd66b05aaa5c,2022-07-08T14:00:00,NH
-NH USGS Flow,995,cfs,Errol,2af20a00-00c7-11ec-9351-dd66b05aaa5c,2022-07-08T13:56:37,NH
-Satellite Remote Pond Elevation for Umbagog Lake,1245.23,ft,Errol,2af20a00-00c7-11ec-9351-dd66b05aaa5c,2022-07-08T14:00:00,NH
-Middle Richardson Pond Elevation,1448.25,ft,Middle Dam,5a00e4f0-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T14:00:00,NH
-Richardson Lake Outflow,400,cfs,Middle Dam,5a00e4f0-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T14:00:00,NH
-Pontook Downstream Flow,1023,cfs,Pontook,fce62350-00c9-11ec-9351-dd66b05aaa5c,2022-07-08T14:10:50.64401,NH
-Rangeley Lake Outflow,20,cfs,Rangeley,1f3032a0-00d1-11ec-9351-dd66b05aaa5c,2022-07-08T14:00:00,NH
-Satellite Remote Pond Elevation for Rangeley Lake,1517.84,ft,Rangeley,1f3032a0-00d1-11ec-9351-dd66b05aaa5c,2022-07-08T14:00:00,NH
-Mooselookmeguntic Lake Elevation,1466.80,ft,Upper Dam,feba9b90-00d1-11ec-9351-dd66b05aaa5c,2022-07-08T14:00:00,NH
-Mooselookmeguntic Lake Outflow,250,cfs,Upper Dam,feba9b90-00d1-11ec-9351-dd66b05aaa5c,2022-07-08T14:00:00,NH
-Total Flow,2582,cfs,Beebee Island,4f811660-00c5-11ec-9351-dd66b05aaa5c,2022-07-08T14:09:00,NY
-Water Elevation,1.44,FT,Moshier/Beaver Lake,9d3a2870-2dce-11ec-b8a8-fdece8709dda,2022-07-08T14:01:18.02,NY
-Discharge into Little Tennessee River,8260,cfs,Calderwood,888bbfa0-00c5-11ec-9351-dd66b05aaa5c,2022-07-08T14:10:28,TN
-Feet Below Full Pool,-2.81,ft,Calderwood,888bbfa0-00c5-11ec-9351-dd66b05aaa5c,2022-07-08T14:10:47.135,TN
-Feet Below Full Pool,-3.30,ft,Cheoah,4c60a710-00c6-11ec-9351-dd66b05aaa5c,2022-07-08T14:10:27.162,TN
-Lake Elevation,1273.50,ft,Cheoah,4c60a710-00c6-11ec-9351-dd66b05aaa5c,2022-07-08T14:10:27.162,TN
-Feet Below Full Pool,-2.65,ft,Chilhowee,6d72fde0-00c6-11ec-9351-dd66b05aaa5c,2022-07-08T14:10:12.177,TN
+Outflow,133,cfs,Fife Brook,426f11f0-00c7-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:00,MA
+Headwater Elevation Outside,2460.34,Feet,Deep Creek,b277e810-00c6-11ec-9351-dd66b05aaa5c,2022-07-08T20:47:14.59201,MD
+Number of Turbines Generating,0,,Deep Creek,b277e810-00c6-11ec-9351-dd66b05aaa5c,2022-07-08T20:47:14.59201,MD
+Lake Outflow,706,cfs,Brassua,6bd19f60-00c5-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:00,ME
+USGS Flow,109,cfs,Canada Falls Lake,cbde65f0-00c5-11ec-9351-dd66b05aaa5c,2022-07-08T20:56:37,ME
+Caucomgomoc Lake Gate Total Flow,55,cfs,Caucomgomoc Lake,17d1c1f0-00c6-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:00,ME
+Total Flow,2383,cfs,Dolby,ebddf7c0-00c6-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:44,ME
+Dead River Flow From Flagstaff Lake.,413,cfs,Flagstaff,6b4b9490-00c7-11ec-9351-dd66b05aaa5c,2022-07-08T20:47:23,ME
+Lake Level for Flagstaff Lake.,1145.46,ft,Flagstaff,6b4b9490-00c7-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:17.703,ME
+Headwater Elevation,953.68,ft,Harris (Indian Pond),f50b1980-00c7-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:47.39801,ME
+Station Flow Total,390,cfs,Harris (Indian Pond),f50b1980-00c7-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:36,ME
+Total Flow,1399,cfs,Mckay / Ripogenus,4673dbe0-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:32,ME
+Millinocket Lake Level,478.97,ft,Millinocket Lake,8d57e650-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:29.082,ME
+Total flow,151,cfs,Millinocket Lake,8d57e650-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:00,ME
+Moosehead Lake Outflow - West,190,cfs,Moosehead - East & West Outlet,a4d27d40-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:00,ME
+Satellite Remote Pond Elevation for Moosehead Lake East Outlet,1028.59,ft,Moosehead - East & West Outlet,a4d27d40-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T20:00:00,ME
+Feet below Full Pond,-1.39,ft,North Twin,c7319f60-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T20:59:44,ME
+Headwater Elevation,490.53,ft,North Twin,c7319f60-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:05.847,ME
+Ragged Lake Gate Flow Total,10,cfs,Ragged Lake,ff0889f0-00d0-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:00,ME
+Total Flow,239,CFS,Seboomook Lake,8e6373d0-00d1-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:00,ME
+Headwater Elevation,318.83,ft,Williams,3b9363d0-00d2-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:57.539,ME
+Station Flow Total,1727,cfs,Williams,3b9363d0-00d2-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:40,ME
+Headwater Elevation,484.06,ft,Wyman,523ca100-00d2-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:27.516,ME
+Station Flow Total,2418,cfs,Wyman,523ca100-00d2-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:40,ME
+Flow,375,cfs,Aziscohos,2d0b10e0-00c5-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:00,NH
+Satellite Remote Pond Elevation for Aziscohos,1517.55,ft,Aziscohos,2d0b10e0-00c5-11ec-9351-dd66b05aaa5c,2022-07-08T20:00:00,NH
+NH USGS Flow,995,cfs,Errol,2af20a00-00c7-11ec-9351-dd66b05aaa5c,2022-07-08T20:56:37,NH
+Satellite Remote Pond Elevation for Umbagog Lake,1245.23,ft,Errol,2af20a00-00c7-11ec-9351-dd66b05aaa5c,2022-07-08T20:00:00,NH
+Middle Richardson Pond Elevation,1448.25,ft,Middle Dam,5a00e4f0-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T20:00:00,NH
+Richardson Lake Outflow,400,cfs,Middle Dam,5a00e4f0-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:00,NH
+Pontook Downstream Flow,421,cfs,Pontook,fce62350-00c9-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:56.098,NH
+Rangeley Lake Outflow,20,cfs,Rangeley,1f3032a0-00d1-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:00,NH
+Satellite Remote Pond Elevation for Rangeley Lake,1517.84,ft,Rangeley,1f3032a0-00d1-11ec-9351-dd66b05aaa5c,2022-07-08T20:00:00,NH
+Mooselookmeguntic Lake Elevation,1466.80,ft,Upper Dam,feba9b90-00d1-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:00,NH
+Mooselookmeguntic Lake Outflow,250,cfs,Upper Dam,feba9b90-00d1-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:00,NH
+Total Flow,2607,cfs,Beebee Island,4f811660-00c5-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:28,NY
+Water Elevation,1.43,FT,Moshier/Beaver Lake,9d3a2870-2dce-11ec-b8a8-fdece8709dda,2022-07-08T20:51:19.86601,NY
+Feet Below Full Pool,-1.80,ft,Calderwood,888bbfa0-00c5-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:52.117,TN
+Goat Creek Discharge,31,cfs,Calderwood,888bbfa0-00c5-11ec-9351-dd66b05aaa5c,2022-07-08T20:56:08,TN
+Feet Below Full Pool,-3.70,ft,Cheoah,4c60a710-00c6-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:52.14801,TN
+Lake Elevation,1273.10,ft,Cheoah,4c60a710-00c6-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:52.14801,TN
+Feet Below Full Pool,-1.27,ft,Chilhowee,6d72fde0-00c6-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:42.094,TN
 Generation Schedule,0.00,,Chilhowee,6d72fde0-00c6-11ec-9351-dd66b05aaa5c,2022-07-01T23:00:00,TN
-Feet Below Full Pool,-1.31,ft,Santeetlah,5131b620-00d1-11ec-9351-dd66b05aaa5c,2022-07-08T14:09:37.17601,TN
-Lake Elevation,1939.60,ft,Santeetlah,5131b620-00d1-11ec-9351-dd66b05aaa5c,2022-07-08T14:09:37.17601,TN
-Current flow in the bypass reach,320,cfs,Hawks Nest,0be292a0-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T14:00:30,
-Forecast flow in Hawks Nest bypass reach (1 day),250,cfs,Hawks Nest,0be292a0-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T14:01:00,
+Discharge into Little Tennessee River,280,cfs,Santeetlah,5131b620-00d1-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:44,TN
+Feet Below Full Pool,-1.41,ft,Santeetlah,5131b620-00d1-11ec-9351-dd66b05aaa5c,2022-07-08T20:59:12.28001,TN
+Current flow in the bypass reach,1932,cfs,Hawks Nest,0be292a0-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T21:00:30,
+Forecast flow in Hawks Nest bypass reach (1 day),250,cfs,Hawks Nest,0be292a0-00c8-11ec-9351-dd66b05aaa5c,2022-07-08T20:01:00,
